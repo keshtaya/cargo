@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|p:\\maui\\cargocarapi\u0027s\\cargocarapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\cargocarapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|solutionrelative:cargocarapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\data\\postgresqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|solutionrelative:data\\postgresqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|solutionrelative:services\\registrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\dtos\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|solutionrelative:dtos\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|solutionrelative:data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31811F61-2232-4E0D-B911-53E1C1319078}|CargoCarApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CargoCarApi",
+              "DocumentMoniker": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\CargoCarApi.csproj",
+              "RelativeDocumentMoniker": "CargoCarApi.csproj",
+              "ToolTip": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\CargoCarApi.csproj",
+              "RelativeToolTip": "CargoCarApi.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T20:28:29.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\User.cs",
+              "ToolTip": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\Data\\Models\\User.cs",
+              "RelativeToolTip": "Data\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T20:03:13.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\DTOs\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegistrationForm.cs",
+              "ToolTip": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\DTOs\\RegistrationForm.cs",
+              "RelativeToolTip": "DTOs\\RegistrationForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:57:09.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:45:11.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrationService.cs",
+              "DocumentMoniker": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\Services\\RegistrationService.cs",
+              "RelativeDocumentMoniker": "Services\\RegistrationService.cs",
+              "ToolTip": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\Services\\RegistrationService.cs",
+              "RelativeToolTip": "Services\\RegistrationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:30:45.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-01T18:09:14.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T19:19:41.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T19:17:49.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T19:04:15.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostgreSqlDbContext.cs",
+              "DocumentMoniker": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\Data\\PostgreSqlDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\PostgreSqlDbContext.cs",
+              "ToolTip": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\Data\\PostgreSqlDbContext.cs",
+              "RelativeToolTip": "Data\\PostgreSqlDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:18:22.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "P:\\maui\\CargoCarApi\u0027s\\CargoCarApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA4wBkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:09:26.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
