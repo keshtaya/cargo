@@ -1,17 +1,23 @@
-# Stage 1: Build the application
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+USER app
+WORKDIR /app
+EXPOSE 8080
+EXPOSE 8081
+
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-WORKDIR /app
-
-# Copy csproj and restore as distinct layers
-COPY *.csproj ./
-RUN dotnet restore
-
-# Copy everything else and build
+ARG BUILD_CONFIGURATION=Release
+WORKDIR /src
+COPY ["CargoCarApi.csproj", "."]
+RUN dotnet restore "./CargoCarApi.csproj"
 COPY . .
-RUN dotnet publish -c Release -o out
+WORKDIR "/src/."
+RUN dotnet build "./CargoCarApi.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
-# Stage 2: Run the application
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
+FROM build AS publish
+ARG BUILD_CONFIGURATION=Release
+RUN dotnet publish "./CargoCarApi.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
+
+FROM base AS final
 WORKDIR /app
-COPY --from=build /app/out .
-ENTRYPOINT ["dotnet", "YourApp.dll"]
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "CargoCarApi.dll"]
